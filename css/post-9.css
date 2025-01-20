@@ -1,0 +1,620 @@
+.elementor-9 .elementor-element.elementor-element-caca2c1 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-9 .elementor-element.elementor-element-caca2c1, .elementor-9 .elementor-element.elementor-element-caca2c1::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-09ce6d4 img {
+    width: 100%;
+}
+
+.elementor-9 .elementor-element.elementor-element-f4548e4 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 50px;
+    --padding-bottom: 50px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-9 .elementor-element.elementor-element-b6705e3 {
+    --iteration-count: infinite;
+    --animation-duration: 1200ms;
+    --dynamic-text-color: #8b6c03;
+}
+
+.elementor-9 .elementor-element.elementor-element-b6705e3 .elementor-headline {
+    text-align: center;
+    font-family: "Bebas Neue", Sans-serif;
+    font-size: 77px;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-b6705e3 .elementor-headline-dynamic-wrapper path {
+    stroke: #FF0000;
+}
+
+.elementor-9 .elementor-element.elementor-element-b6705e3 .elementor-headline-plain-text {
+    color: #000000;
+}
+
+.elementor-9 .elementor-element.elementor-element-b6705e3 .elementor-headline-dynamic-text {
+    font-family: "Bebas Neue", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-93f97c7 {
+    width: auto;
+    max-width: auto;
+    text-align: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-93f97c7 > .elementor-widget-container {
+    padding: 10px 10px 10px 10px;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+}
+
+.elementor-9 .elementor-element.elementor-element-93f97c7.elementor-element {
+    --align-self: center;
+}
+
+.elementor-9 .elementor-element.elementor-element-93f97c7 .elementor-heading-title {
+    color: #000000;
+    font-family: "Roboto", Sans-serif;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.elementor-9 .elementor-element.elementor-element-871c8fa {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --margin-top: 20px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 140px;
+    --padding-bottom: 40px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-9 .elementor-element.elementor-element-871c8fa:not(.elementor-motion-effects-element-type-background), .elementor-9 .elementor-element.elementor-element-871c8fa > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #000000 0%, #FFFFFF 25%);
+}
+
+.elementor-9 .elementor-element.elementor-element-871c8fa, .elementor-9 .elementor-element.elementor-element-871c8fa::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-871c8fa > .elementor-shape-top svg, .elementor-9 .elementor-element.elementor-element-871c8fa > .e-con-inner > .elementor-shape-top svg {
+    height: 46px;
+    transform: translateX(-50%) rotateY(180deg);
+}
+
+.elementor-9 .elementor-element.elementor-element-2761c15 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-0ee5176 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 50px;
+    --padding-right: 0px;
+}
+
+.elementor-9 .elementor-element.elementor-element-ba82c2f {
+    text-align: left;
+}
+
+.elementor-9 .elementor-element.elementor-element-ba82c2f .elementor-heading-title {
+    color: #000000;
+    font-family: "Bebas Neue", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-a20a2a9 {
+    text-align: left;
+}
+
+.elementor-9 .elementor-element.elementor-element-a20a2a9 .elementor-heading-title {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-8748baa {
+    width: var( --container-widget-width, 79% );
+    max-width: 79%;
+    --container-widget-width: 79%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-9 .elementor-element.elementor-element-b0db290 .elementor-button {
+    font-family: "Bebas Neue", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #8b6c03;
+}
+
+.elementor-9 .elementor-element.elementor-element-2eccc4b {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --margin-top: 50px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 90px;
+    --padding-bottom: 20px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-9 .elementor-element.elementor-element-2eccc4b:not(.elementor-motion-effects-element-type-background), .elementor-9 .elementor-element.elementor-element-2eccc4b > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #D8D8D8 0%, #FFFFFF 29%);
+}
+
+.elementor-9 .elementor-element.elementor-element-2eccc4b, .elementor-9 .elementor-element.elementor-element-2eccc4b::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-2eccc4b > .elementor-shape-top svg, .elementor-9 .elementor-element.elementor-element-2eccc4b > .e-con-inner > .elementor-shape-top svg {
+    height: 49px;
+}
+
+.elementor-9 .elementor-element.elementor-element-16cccbc {
+    --iteration-count: infinite;
+    --animation-duration: 1200ms;
+    --dynamic-text-color: #8b6c03;
+}
+
+.elementor-9 .elementor-element.elementor-element-16cccbc .elementor-headline {
+    text-align: center;
+    font-family: "Bebas Neue", Sans-serif;
+    font-size: 77px;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-16cccbc .elementor-headline-dynamic-wrapper path {
+    stroke: #FF0000;
+}
+
+.elementor-9 .elementor-element.elementor-element-16cccbc .elementor-headline-plain-text {
+    color: #000000;
+}
+
+.elementor-9 .elementor-element.elementor-element-16cccbc .elementor-headline-dynamic-text {
+    font-family: "Bebas Neue", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-8b9d259 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --flex-wrap: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-bc0671f {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --margin-top: 2px;
+    --margin-bottom: 2px;
+    --margin-left: 2px;
+    --margin-right: 2px;
+    --padding-top: 90px;
+    --padding-bottom: 30px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-9 .elementor-element.elementor-element-bc0671f:not(.elementor-motion-effects-element-type-background), .elementor-9 .elementor-element.elementor-element-bc0671f > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #1D1D1D 0%, #000000 100%);
+}
+
+.elementor-9 .elementor-element.elementor-element-bc0671f:hover {
+    background-color: #FF0000;
+}
+
+.elementor-9 .elementor-element.elementor-element-bc0671f, .elementor-9 .elementor-element.elementor-element-bc0671f::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-613dd18 {
+    text-align: left;
+}
+
+.elementor-9 .elementor-element.elementor-element-613dd18 img {
+    width: 47px;
+}
+
+.elementor-9 .elementor-element.elementor-element-59f47fc {
+    text-align: left;
+}
+
+.elementor-9 .elementor-element.elementor-element-59f47fc .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Bebas Neue", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-f606e96 {
+    width: var( --container-widget-width, 79% );
+    max-width: 79%;
+    --container-widget-width: 79%;
+    --container-widget-flex-grow: 0;
+    color: #FFFFFF;
+}
+
+.elementor-9 .elementor-element.elementor-element-442fdc5 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --margin-top: 2px;
+    --margin-bottom: 2px;
+    --margin-left: 2px;
+    --margin-right: 2px;
+    --padding-top: 90px;
+    --padding-bottom: 30px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-9 .elementor-element.elementor-element-442fdc5:not(.elementor-motion-effects-element-type-background), .elementor-9 .elementor-element.elementor-element-442fdc5 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #1D1D1D 0%, #000000 100%);
+}
+
+.elementor-9 .elementor-element.elementor-element-442fdc5, .elementor-9 .elementor-element.elementor-element-442fdc5::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-812c260 {
+    text-align: left;
+}
+
+.elementor-9 .elementor-element.elementor-element-812c260 img {
+    width: 47px;
+}
+
+.elementor-9 .elementor-element.elementor-element-ec91e3c {
+    text-align: left;
+}
+
+.elementor-9 .elementor-element.elementor-element-ec91e3c .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Bebas Neue", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-00cdeb5 {
+    width: var( --container-widget-width, 79% );
+    max-width: 79%;
+    --container-widget-width: 79%;
+    --container-widget-flex-grow: 0;
+    color: #FFFFFF;
+}
+
+.elementor-9 .elementor-element.elementor-element-34203ac {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --margin-top: 2px;
+    --margin-bottom: 2px;
+    --margin-left: 2px;
+    --margin-right: 2px;
+    --padding-top: 90px;
+    --padding-bottom: 30px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-9 .elementor-element.elementor-element-34203ac:not(.elementor-motion-effects-element-type-background), .elementor-9 .elementor-element.elementor-element-34203ac > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #1D1D1D 0%, #000000 100%);
+}
+
+.elementor-9 .elementor-element.elementor-element-34203ac, .elementor-9 .elementor-element.elementor-element-34203ac::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-771679d {
+    text-align: left;
+}
+
+.elementor-9 .elementor-element.elementor-element-771679d img {
+    width: 47px;
+}
+
+.elementor-9 .elementor-element.elementor-element-36112c5 {
+    text-align: left;
+}
+
+.elementor-9 .elementor-element.elementor-element-36112c5 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Bebas Neue", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-2174124 {
+    width: var( --container-widget-width, 79% );
+    max-width: 79%;
+    --container-widget-width: 79%;
+    --container-widget-flex-grow: 0;
+    color: #FFFFFF;
+}
+
+.elementor-9 .elementor-element.elementor-element-02c9b09 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --margin-top: 2px;
+    --margin-bottom: 2px;
+    --margin-left: 2px;
+    --margin-right: 2px;
+    --padding-top: 90px;
+    --padding-bottom: 30px;
+    --padding-left: 30px;
+    --padding-right: 30px;
+}
+
+.elementor-9 .elementor-element.elementor-element-02c9b09:not(.elementor-motion-effects-element-type-background), .elementor-9 .elementor-element.elementor-element-02c9b09 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #1D1D1D 0%, #000000 100%);
+}
+
+.elementor-9 .elementor-element.elementor-element-02c9b09, .elementor-9 .elementor-element.elementor-element-02c9b09::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-9 .elementor-element.elementor-element-487c0c5 {
+    text-align: left;
+}
+
+.elementor-9 .elementor-element.elementor-element-487c0c5 img {
+    width: 47px;
+}
+
+.elementor-9 .elementor-element.elementor-element-5e844b7 {
+    text-align: left;
+}
+
+.elementor-9 .elementor-element.elementor-element-5e844b7 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Bebas Neue", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-7f60484 {
+    width: var( --container-widget-width, 79% );
+    max-width: 79%;
+    --container-widget-width: 79%;
+    --container-widget-flex-grow: 0;
+    color: #FFFFFF;
+}
+
+.elementor-9 .elementor-element.elementor-element-61f6097 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-9 .elementor-element.elementor-element-c9c032c {
+    --iteration-count: infinite;
+    --animation-duration: 1200ms;
+    --dynamic-text-color: #8b6c03;
+}
+
+.elementor-9 .elementor-element.elementor-element-c9c032c .elementor-headline {
+    text-align: center;
+    font-family: "Bebas Neue", Sans-serif;
+    font-size: 77px;
+    font-weight: 600;
+}
+
+.elementor-9 .elementor-element.elementor-element-c9c032c .elementor-headline-dynamic-wrapper path {
+    stroke: #FF0000;
+}
+
+.elementor-9 .elementor-element.elementor-element-c9c032c .elementor-headline-plain-text {
+    color: #000000;
+}
+
+.elementor-9 .elementor-element.elementor-element-c9c032c .elementor-headline-dynamic-text {
+    font-family: "Bebas Neue", Sans-serif;
+    font-weight: 600;
+}
+
+@media(min-width: 768px) {
+    .elementor-9 .elementor-element.elementor-element-871c8fa {
+        --content-width:1200px;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-2761c15 {
+        --width: 50%;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-0ee5176 {
+        --width: 50%;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-bc0671f {
+        --width: 49%;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-442fdc5 {
+        --width: 49%;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-34203ac {
+        --width: 49%;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-02c9b09 {
+        --width: 49%;
+    }
+}
+
+@media(max-width: 767px) {
+    .elementor-9 .elementor-element.elementor-element-caca2c1 {
+        --min-height:0px;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-93f97c7 .elementor-heading-title {
+        font-size: 11px;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-871c8fa {
+        --padding-top: 0px;
+        --padding-bottom: 40px;
+        --padding-left: 10px;
+        --padding-right: 10px;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-0ee5176 {
+        --padding-top: 20px;
+        --padding-bottom: 20px;
+        --padding-left: 20px;
+        --padding-right: 20px;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-8748baa {
+        --container-widget-width: 1000px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 1000px );
+        max-width: 1000px;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-16cccbc .elementor-headline {
+        font-size: 46px;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-f606e96 {
+        --container-widget-width: 1000px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 1000px );
+        max-width: 1000px;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-00cdeb5 {
+        --container-widget-width: 1000px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 1000px );
+        max-width: 1000px;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-2174124 {
+        --container-widget-width: 1000px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 1000px );
+        max-width: 1000px;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-7f60484 {
+        --container-widget-width: 1000px;
+        --container-widget-flex-grow: 0;
+        width: var( --container-widget-width, 1000px );
+        max-width: 1000px;
+    }
+
+    .elementor-9 .elementor-element.elementor-element-c9c032c .elementor-headline {
+        font-size: 40px;
+    }
+}
